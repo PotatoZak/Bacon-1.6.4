@@ -33,7 +33,6 @@ public class EventHooks {
 		if (pickedUp.contains("item.baconRaw")) {
 			player.addStat(BaconMain.bringBacon, 1);
 		}
-		// TODO Auto-generated constructor stub
 	}
 
 }

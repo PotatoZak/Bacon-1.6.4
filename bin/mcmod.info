@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Bacon",
+  "name": "Bacon",
+  "description": "Adds bacon to Minecraft. Raw bacon is dropped by pigs and can be made into cooked bacon by use of a furnace.",
+  "version": "0.01.0000",
+  "mcversion": "1.6.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PatBattle"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
