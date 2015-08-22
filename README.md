@@ -7,3 +7,5 @@ This version is for Minecraft 1.6.4. It was created using Pahimar's Eclipse deve
 
 [Link posted 11-27-2014]
 https://www.youtube.com/watch?v=XU3MmJGnqSc
+
+8/22/15 - I will no longer be developing mods for 1.6.4 at this time. Anyone is welcome to use the code here for any purpose they wish. I look forward to adding more mods for MC 1.7.2, 1.7.10, and 1.8 in the future. As usual, all code will be available on GitHub :)
